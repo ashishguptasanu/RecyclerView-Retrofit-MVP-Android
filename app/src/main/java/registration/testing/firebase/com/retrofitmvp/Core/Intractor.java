@@ -47,6 +47,7 @@ public class Intractor implements GetDataContract.Interactor{
                 for(int i=0;i<allcountry.size();i++){
                     allCountriesData.add(allcountry.get(i).getName());
                 }
+                Log.d("Data", "Refreshed");
                 mOnGetDatalistener.onSuccess("List Size: " + allCountriesData.size(), allcountry);
 
 
