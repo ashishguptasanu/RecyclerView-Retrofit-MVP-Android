@@ -1,4 +1,4 @@
-# RecyclerView-Retrofit-MVP
+# RecyclerView-Retrofit-MVP-Android
 This is a demo project to demonstrate the Recycler View in Model View Presenter using Retrofit.
 
 <img src="https://github.com/ashishguptasanu/RecyclerView-Retrofit-MVP/blob/master/device-2017-09-28-115401.png" width="200" height="350">
